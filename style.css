@@ -1,0 +1,27 @@
+body {
+  background-color: black;
+  height: 100%;
+}
+.container-fluid {
+  border-radius: 5%;
+  height: 300px;
+  display: block;
+  position: absolute;
+  margin: 0 auto;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+ul li {
+  list-style-type: none;
+}
+.text-center {
+  font-family: serif;
+  font-size: 40px;
+  color: white;
+}
+.btn {
+  color: white;
+  font-family: serif;
+  font-size: 20px;
+}
